@@ -23,7 +23,7 @@ drawpad.grid(row=0, column=1)
 line1 = rectangle = drawpad.create_rectangle(400,400,300,300)
 line1 = drawpad.create_line(340,250,400,300)
 line1 = drawpad.create_line(340,250,300,300)
-
+door = drawpad.create_rectangle(340,400,360,365)
 
 # Insert your code here to draw the house!
 
