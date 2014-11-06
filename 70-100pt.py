@@ -28,6 +28,8 @@ window = drawpad.create_rectangle(360,355,366,340)
 window = drawpad.create_rectangle(355,355,366,340)
 window = drawpad.create_rectangle(350,355,366,340)
 window = drawpad.create_rectangle(345,355,366,340)
+handle = drawpad.create_oval(350,375,345,380)
+chimney = drawpad.create_rectangle(380,300,400,256)
 # Insert your code here to draw the house!
 
 
